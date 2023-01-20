@@ -1,0 +1,46 @@
+body{
+    background: rgb(15, 140, 4);
+    font: normal 15pt Arial;
+    color: white;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: rgb(18, 104, 189) ;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    text-align: center;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    padding: 15px;
+}
+#txti{
+    border-radius: 30px;
+}
+#txtf{
+    border-radius: 30px;
+}
+#txtp{
+    border-radius: 30px;
+}
+#btn{
+    background-color: rgb(251, 252, 251);
+    border-radius: 15px;
+    font-size: 18px;
+}
+#btn:hover{
+    background-color: rgb(47, 179, 20);
+    color: white;
+}
